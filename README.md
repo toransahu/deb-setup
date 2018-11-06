@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them:  
 - `build-essential`
 - `devscripts`
-- `devhelper` >= 9
+- `debhelper` >= 9
 - make sure the project dir is in linux supported file systems like extX
 
 Note: NTFS does not support the build operations
