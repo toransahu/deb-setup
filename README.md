@@ -23,7 +23,7 @@ Note: NTFS does not support the build operations
 dpkg-deb --build deb-setup
 ```
 
-### Installing
+### Installation
 
 ```
 sudo dpkg -i deb-setup.deb
