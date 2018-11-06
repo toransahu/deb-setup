@@ -1,0 +1,12 @@
+Source: deb-setup
+Maintainer: Toran Sahu <toran.sahu@yahoo.com>
+Section: misc
+Priority: optional
+Standards-Version: 0.0.1
+Build-Depends: debhelper (>= 9)
+Package: deb-setup
+Architecture: all
+Version: 0.0.1
+#Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: deb-setup 
+ A sample/profarma for building .deb out of shell screipts.
